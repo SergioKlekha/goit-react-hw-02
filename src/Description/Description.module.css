@@ -1,0 +1,8 @@
+DescriptionBox{
+    display: flex;
+}
+
+DescriptionTitle {
+    display: flex; 
+    margin-left: 25px;
+}
