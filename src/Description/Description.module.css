@@ -1,8 +1,13 @@
-DescriptionBox{
+.DescriptionBox{
     display: flex;
+    margin-left: 40px;
 }
 
-DescriptionTitle {
+.DescriptionTitle {
     display: flex; 
-    margin-left: 25px;
+    margin-left: 40px;
+}
+
+.DescriptionText {
+    margin-left: 40px;
 }
