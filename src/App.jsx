@@ -52,7 +52,7 @@ const App = () => {
     />
     
     {totalFeedback === 0 ? (
-        <Notification message="No feedback yet" />)
+        <Notification message="No feedback  yet" />)
           :  (
           <Feedback 
             feedback={feedback}
